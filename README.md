@@ -1,5 +1,4 @@
-<a href="https://tangenlab.no" width="100vh"><img align="center" src="oslo.jpeg" alt="mtangen" height="500" width="auto" /></a>
-
+<a href="https://tangenlab.no" width="100vh"><img align="center" src="oslo.jpeg" alt="mtangen" height="400" width="auto" /></a>
 
 <h1 align="center">Hi 👋, I'm Martin Tangen</h1>
 <h3 align="center">A Junior web developer from Norway</h3>
