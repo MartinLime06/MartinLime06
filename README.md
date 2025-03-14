@@ -1,3 +1,6 @@
+<a href="https://tangenlab.no">><img align="center" src="" alt="mtangen" /></a>
+
+
 <h1 align="center">Hi 👋, I'm Martin Tangen</h1>
 <h3 align="center">A Junior web developer from Norway</h3>
 
