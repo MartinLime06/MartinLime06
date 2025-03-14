@@ -1,4 +1,4 @@
-<a href="https://tangenlab.no">><img align="center" src="" alt="mtangen" /></a>
+<a href="https://tangenlab.no">><img align="center" src="oslo.jpeg" alt="mtangen" /></a>
 
 
 <h1 align="center">Hi 👋, I'm Martin Tangen</h1>
