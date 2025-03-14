@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Martin Tangen</h1>
 <h3 align="center">A Junior web developer from Norway</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=martinlime06&label=Views&color=ff9900&style=flat" alt="martinlime06" /> </p>
 
 - 🔭 I’m currently working on [Whatthesigma.no](https://github.com/MartinLime06/whatthesigma.no)
 
