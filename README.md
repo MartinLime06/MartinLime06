@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **TailWindCSS and React**
 
-- 👨‍💻 Some of my projects are available at [tangenlab.no](tangenlab.no)
+- 👨‍💻 Some of my projects are available at [tangenlab.no](https://tangenlab.no)
 
 - 📫 How to reach me **martin.tangen@tangenlab.no**
 
