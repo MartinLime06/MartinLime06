@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin Tangen</h1>
-<h3 align="center">A Junior web developer from Norway</h3>
+<h3 align="center">A Junior Fullstack Developer From Norway</h3>
 
 
 - 🔭 I’m currently working on [Whatthesigma.no](https://github.com/MartinLime06/whatthesigma.no)
